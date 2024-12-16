@@ -3,10 +3,7 @@
 So_long is a C project from 42 School that relies on the MiniLibX graphics library to handle graphical interfaces, displaying images and so on. 
 It is essentialy a small 2D game that mainly aims at practicing the use of C, especially structures, pointers to pointers as well as MiniLibX functions.
 
-## Usage
-This program requires one argument, which is the map you will play.
-There are a few example maps available in the "maps" folder here, some that should work and others that will return errors (see 'Subject' section for explanations).
-> ./so_long maps/maps_ok/big_map.ber
+[![Watch the video](https://github.com/mgourlai42/so_long/blob/09e9828d3b149b1ceaff2f33279c4376765790ca/thumbnail.png)](https://github.com/mgourlai42/so_long/blob/09e9828d3b149b1ceaff2f33279c4376765790ca/demo.webm)
 
 ## Installation
 This version only works on Linux.
@@ -21,7 +18,15 @@ Now return to the root of the project...
 
 If needed, you can of course use make "fclean" and "make re"
 > /so_long fclean
+
 > /so_long make re
+
+## Usage
+This program requires one argument, which is the map you will play.
+There are a few example maps available in the "maps" folder here, some that should work and others that will return errors (see 'Subject' section for explanations).
+> /so_long ./so_long maps/maps_ok/big_map.ber
+
+The goal here is to gather all the tomatoes and exit by picking up the flower. 
 
 ## Subject Recap
 ### Game
@@ -48,4 +53,4 @@ If needed, you can of course use make "fclean" and "make re"
 
 ## Other Projects
 42 School offers various graphics projects as part of its core curriculum, like Cub3d which is a team project done by groups of 2 students. 
-This one also works with the MiniLibX, and you can find mine here.
+This one also works with the MiniLibX, and you can find my version here.
