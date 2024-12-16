@@ -3,7 +3,7 @@
 So_long is a C project from 42 School that relies on the MiniLibX graphics library to handle graphical interfaces, displaying images and so on. 
 It is essentialy a small 2D game that mainly aims at practicing the use of C, especially structures, pointers to pointers as well as MiniLibX functions.
 
-[![](https://github.com/mgourlai42/so_long/blob/09e9828d3b149b1ceaff2f33279c4376765790ca/thumbnail.png)](https://github.com/mgourlai42/so_long/blob/09e9828d3b149b1ceaff2f33279c4376765790ca/demo.webm)
+[![](https://github.com/mgourlai42/so_long/blob/09e9828d3b149b1ceaff2f33279c4376765790ca/thumbnail.png)]()
 
 ## Installation
 This version only works on Linux.
